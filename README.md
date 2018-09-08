@@ -1,4 +1,3 @@
-l1;95;0cs
 # Code Camp Fall 2018
 
 This repository contains all materials and code for tech@SOLES' Code Camp.
@@ -10,7 +9,7 @@ Code Camp is an extracurricular mini-course organized by SOLES@UCLA to accompany
 ## Counselors
 
 | Counselor | Email |
-| --- | --- | --- |
+| --- | --- |
 | Jair Hinojosa | jairhd011@gmail.com |
 | Kyle Romero | kyleromero98@gmail.com |
 
