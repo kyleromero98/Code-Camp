@@ -10,8 +10,8 @@ Code Camp is an extracurricular mini-course organized by SOLES@UCLA to accompany
 
 | Counselor | Email |
 | --- | --- |
-| Jair Hinojosa | jairhd011@gmail.com |
-| Kyle Romero | kyleromero98@gmail.com |
+| Jair Hinojosa | j********@gmail.com |
+| Kyle Romero | k********@gmail.com |
 
 ## Prerequisites
 
@@ -28,13 +28,9 @@ Code Camp will meet weekly starting Week 2 on Wednesdays @ 6PM. This may be resc
 | --- | --- | --- | --- |
 | 2 | Introduction | An introduction to Code Camp, followed by a mixer with CS upperclassmen. | Mixed |
 | 3 | Linux Servers | Learn how to run your CS 31 project on the Linux servers. | Jair |
-| 4 | Debugging | Learn how to debug your CS 31 project. | Jair |
-| 5 | Midterm Review | Review for the upcoming CS 31 midterm | Kyle |
-| 6 | Problem Solving with Arrays and Strings | Learn to solve real-world problems with arrays and strings. | Jair |
-| 7 | Optimization and Quality Code | Learn how to write quality code and how to optimize it. | Kyle |
-| 8 | Introduction to GitHub | Learn how to put your projects on GitHub. | Kyle |
-| 9 | Programming Languages | Learn about different programming languages and how to use them. | Kyle |
-| 10 | Technical Interviewing | Learn how to prepare for a technical interview. | Jair |
-
-
+| 4 | Midterm 1 Review | Review for the upcoming CS 31 midterm. | Kyle |
+| 5 | Debugging | Learn how to debug your CS 31 project. | Jair |
+| 6 | Problem Solving | Learn to solve real-world problems and simple code writing tips and tricks. | Kyle |
+| 8 | Midterm 2 Review | Review for the upcoming CS 31 midterm. | Kyle |
+| 9 | Introduction to GitHub | Learn how to put your projects on GitHub. | Kyle |
 
